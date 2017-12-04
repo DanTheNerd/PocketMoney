@@ -3,7 +3,7 @@
 system:
  error:
   permission: "You don't have permissions to use this command."
-  invalidsubcommand: "/money {{subCommand}} does not exist"
+  invalidsubcommand: "/money {{subCommand}} does not exist."
 
 view:
  usage: "Usage: /money view <account>"
